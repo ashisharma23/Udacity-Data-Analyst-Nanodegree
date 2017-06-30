@@ -1,0 +1,19 @@
+
+Overview
+In this project, you will demonstrate your knowledge of descriptive statistics by conducting an experiment dealing with drawing from a deck of playing cards and creating a write up containing your findings.
+
+Note: This project will not be submitted for review. Throughout the lesson, you will encounter quizzes that will test your understanding of the concepts tested in the project. You can use these quizzes to assess your own work. You do not need to submit this project in order to graduate from the Nanodegree program; there is a statistics-related project later in the program that you will submit instead.
+
+If you have already completed that project, Test a Perceptual Phenomenon, then you should not feel obligated to complete this project. However, it's still recommended to take a little bit of time to go through this project just to practice your skills!
+
+Questions for Investigation
+This experiment will require the use of a standard deck of playing cards. This is a deck of fifty-two cards divided into four suits (spades (♠), hearts (♥), diamonds (♦), and clubs (♣)), each suit containing thirteen cards (Ace, numbers 2-10, and face cards Jack, Queen, and King). You can use either a physical deck of cards for this experiment or you may use our data generator in the Generate Data section.
+
+For the purposes of this task, assign each card a value: The Ace takes a value of 1, numbered cards take the value printed on the card, and the Jack, Queen, and King each take a value of 10.
+
+For the rest of the lesson, you will do the following:
+
+Distribution of Card Values: In this section, you'll create a histogram and answer quiz questions about the distribution of card values.
+Generate Data: In this section, you will get samples for a new distribution. To obtain a single sample, shuffle your deck of cards and draw three cards from it. (You will be sampling from the deck without replacement.) Record the cards that you have drawn and the sum of the three cards’ values. Replace the drawn cards back into the deck and repeat this sampling procedure a total of at least thirty times.
+Create Write-up: You'll create a summary of your findings.
+Evaluate Answers: You'll compare your results to those from a computer program that automatically generates the results.
